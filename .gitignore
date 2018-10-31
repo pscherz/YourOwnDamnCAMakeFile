@@ -1,0 +1,5 @@
+*.pem
+*.old
+*.txt
+*.attr
+*.csr
